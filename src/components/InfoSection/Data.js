@@ -1,3 +1,6 @@
+import about1 from '../../images/image_about.jpg';
+import team from '../../images/team.jpg';
+import sign from '../../images/signup.jpg';
 export const homeObjOne = {
   id: 'about',
   lightBg: false,
@@ -9,8 +12,8 @@ export const homeObjOne = {
     'booking barber appointments has never been this easy',
   buttonLabel: 'Get Started',
   imgStart: false,
-  img: require('../../images/svg-1.svg'),
-  alt: 'Car',
+  img: about1,
+  alt: 'about',
   dark: true,
   primary: true,
   darkText: false
@@ -27,7 +30,7 @@ export const homeObjTwo = {
     'here is where you can find the best of the best in the artistry of hairdressing .',
   buttonLabel: 'Learn More',
   imgStart: true,
-  img: require('../../images/svg-1.svg'),
+  img: team,
   alt: 'barbers',
   dark: false,
   primary: false,
@@ -45,7 +48,7 @@ export const homeObjThree = {
     "No more calls and book based scheduling; Get everything set up and ready in under 10 minutes.",
   buttonLabel: 'Start Now',
   imgStart: false,
-  img: require('../../images/svg-1.svg'),
+  img: sign,
   alt: 'Papers',
   dark: false,
   primary: false,
