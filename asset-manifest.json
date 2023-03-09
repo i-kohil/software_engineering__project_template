@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7344b672.css",
+    "main.js": "/static/js/main.b373151e.js",
+    "static/media/video.mp4": "/static/media/video.b9fe27033f39e02bdde9.mp4",
+    "static/media/haircut.jpg": "/static/media/haircut.c05bd28b788131136077.jpg",
+    "static/media/image_about.jpg": "/static/media/image_about.03f1f75e5fb74ff4352e.jpg",
+    "static/media/dye.jpg": "/static/media/dye.a6611a2464f2c4e732f9.jpg",
+    "static/media/signup.jpg": "/static/media/signup.3eaf7b8609eb8003c77b.jpg",
+    "static/media/beard.jpg": "/static/media/beard.0f12f872f003ab96bcfd.jpg",
+    "static/media/team.jpg": "/static/media/team.2d210d739a66e7076969.jpg",
+    "index.html": "/index.html",
+    "main.7344b672.css.map": "/static/css/main.7344b672.css.map",
+    "main.b373151e.js.map": "/static/js/main.b373151e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7344b672.css",
+    "static/js/main.b373151e.js"
+  ]
+}
